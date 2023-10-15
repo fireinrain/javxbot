@@ -1,2 +1,2 @@
-# javx-tgbot
-A more useful javbus telegram bot powdered by golang
+# javxbot
+A more useful javbus telegram bot powered by go.
